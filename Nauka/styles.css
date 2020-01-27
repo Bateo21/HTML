@@ -1,0 +1,21 @@
+h2{font-size: 25; color: blue;}
+
+.mojapierwszaklasa
+{
+    color: chartreuse;
+    font-size: 200%;
+    font-weight: bolder;
+}
+
+.mojadrugaprobazklasa
+{
+    font-style: italic;
+    font-size: 100px;
+    font-weight: 800;
+    color: maroon;
+}
+
+#mojepierwszeide
+{
+    font-size: small;
+}

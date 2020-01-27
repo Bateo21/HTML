@@ -1,0 +1,15 @@
+<title> </title> - tekst na karcie w przeglądarce
+<h1> </h1> - Nagłówek od h1 do h6
+<p> </p> - akapit
+<ul> <li> Nie wiem co </li> </ul> - Lista z kropkami
+<ul> <dd> Nie wiem co </dd> </ul> - Lista z kropkami z elementami na srodku
+<ul> <dt> Nie wiem co </dt> </ul> - Lista z kropkami z elementami z lewej
+<ol> <li> Nie wiem co </li> </ol> - Lista numerowana z kropkami
+    .
+    .
+    .
+ <ol><li>Jajka</li><li>Mleko</li></ol> - lista numerowana 
+
+
+ do css 
+ <link rel="stylesheet" href="style.css" type="text/css"/>
