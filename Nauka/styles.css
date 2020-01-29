@@ -19,3 +19,34 @@ h2{font-size: 25; color: blue;}
 {
     font-size: small;
 }
+
+body
+{
+    border-left-width: 1px;
+    border-left-style: dotted;
+    border-left-color: green;
+
+    border-right-width: 2px;
+    border-right-style: double;
+    border-right-color: mediumblue;
+
+    border-bottom-width: 3px;
+    border-bottom-style: groove;
+    border-bottom-color: darkorange;
+
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-top-color: magenta;
+}
+
+.outer
+{
+    border: 2px solid black;
+}
+
+.inner
+{
+    border: 2px dotted black;
+    padding: 15px;
+    margin: 15px;
+}
